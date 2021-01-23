@@ -1,0 +1,1 @@
+/usr/bin/cc  -ansi -pedantic -Wall  -rdynamic CMakeFiles/lept_json_test.dir/test.c.o  -o lept_json_test  liblept_json.a 
